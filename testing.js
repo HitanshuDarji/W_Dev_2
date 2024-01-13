@@ -1,4 +1,4 @@
-a = 1;
-b = 2;
-
-print(a + b);
+let x = 2;
+let y = 8;
+let z = x * y;
+console.log(z); //16
